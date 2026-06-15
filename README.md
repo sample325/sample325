@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Continuous Improvement Engineer
 -------------------------------
 
-Ingenious and determined in production engineering, value engineering and industry with over 4 years of experience. Currently, interesting and study in automation, artificial intelligence, image processing and robotics for apply in electronics industry. Excellent problem-solving skills, growth mindset, mental management, time management and negotiation.
+Ingenious and determined in production engineering, value engineering and industry with over 6 years of experience. Currently, interesting and study in automation, artificial intelligence, image processing and robotics for apply in electronics industry. Excellent problem-solving skills, growth mindset, mental management, time management and negotiation.
 
 *   🌍  I'm based in Samut Prakarn, Thailand
 *   ✉️  You can contact me at [samaphon.yong@gmail.com](mailto:samaphon.yong@gmail.com)
-*   🚀  I'm currently working on [SiiX Corporation](http://www.siix.co.jp/en/)
+*   🚀  I'm currently working on [Hamer]
 *   🧠  I'm learning Artificial intelligence, Robotics and Automation.
 
 ### Skills 
