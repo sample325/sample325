@@ -6,10 +6,10 @@ Continuous Improvement Engineer
 
 Ingenious and determined in production engineering, value engineering and industry with over 6 years of experience. Currently, interesting and study in automation, artificial intelligence, image processing and robotics for apply in electronics industry. Excellent problem-solving skills, growth mindset, mental management, time management and negotiation.
 
-*   🌍  I'm based in Samut Prakarn, Thailand
+*   🌍  I'm based in Samut Prakarn and Chonburi, Thailand
 *   ✉️  You can contact me at [samaphon.yong@gmail.com](mailto:samaphon.yong@gmail.com)
 *   🚀  I'm currently working on [Hamer]
-*   🧠  I'm learning Artificial intelligence, Robotics and Automation.
+*   🧠  I'm learning Artificial intelligence, Agriculture, Robotics and Automation.
 
 ### Skills 
 <p align="left">
