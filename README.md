@@ -10,6 +10,7 @@ Ingenious and determined in production engineering, value engineering and indust
 *   ✉️  You can contact me at [samaphon.yong@gmail.com](mailto:samaphon.yong@gmail.com)
 *   🚀  I'm currently working on [Hamer]
 *   🧠  I'm learning Artificial intelligence, Agriculture, Robotics and Automation.
+*   🌱  Founder of [Remote Farm], Chonburi
 
 ### Skills 
 <p align="left">
